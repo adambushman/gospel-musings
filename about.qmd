@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/adam_bushman
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/adamrbushman
+
+---
+
+Adam shares portions of his journey to search, ponder, and pray about the Gospel of Jesus Christ. Views are his own and don't exclusively represent official views from The Church of Jesus Christ of Latter-day Saints.
