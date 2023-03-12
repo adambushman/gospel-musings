@@ -1,0 +1,170 @@
+---
+title: "The Purpose of the Church"
+description: "Church is the environment for salvation and exaltation wherein individuals and families crank the flywheel of both, which is Jesus Christ."
+author: "Adam Bushman"
+date: "03/12/2023"
+image: "church_logo.png"
+draft: false
+---
+
+Early days of the church: call on a member mid-meeting to speak.
+
+Grateful to get a couple days.
+
+
+# The Basics
+
+The church furthers our earthly mission and purpose:
+
+**Demonstrate faithfulness in the gospel by learning & gaining mortal experiences**
+
+We can narrow this down, highlight certain components, but that's it.
+
+Paul writing to a branch of the primitive Church in Ephesus:
+
+::::::: {.card .bg-light .mb-3}
+::::: {.card-body}
+::: {.h4 .card-title}
+
+Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
+
+:::
+::: {.p .card-text}
+[New Testament | Ephesians 4:13](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng)
+:::
+:::::
+:::::::
+
+The Church handbook leads off with this same mission:
+
+::::::: {.card .bg-light .mb-3}
+::::: {.card-body}
+::: {.h4 .card-title}
+
+Jesus Christ established His Church to enable individuals and families to do the work of salvation and exaltation.
+
+:::
+::: {.p .card-text}
+[General Handbook 1.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng#title_number8)
+:::
+:::::
+:::::::
+
+Observations:
+
+*   The church doesn't execute the work of salvation and exaltation
+    -   Individuals and families operate in the environment setup by the church
+*   All stems back to Jesus Christ
+    -   Center of the Plan of Salvation
+    -   The flywheel to the work
+    -   We choose our path; Christ perfects us along the way
+
+Church is the environment for salvation and exaltation.
+
+There are ingredients to this recipe that yields the best results for the most Saints.
+
+
+# The Recipe
+
+As with any dish, a recipe is followed. Ingredients are ordered, measured, and treated to ensure the best outcome.
+
+Handbook spells out the recipe for the best environment:
+
+::::::: {.card .bg-light .mb-3}
+::::: {.card-body}
+::: {.h4 .card-title}
+
+To help accomplish this divine purpose, the Church and its leaders provide:
+
+*   Priesthood authority and keys.
+*   Covenants and ordinances.
+*   Prophetic direction.
+*   Scriptures.
+*   Gospel learning and teaching support.
+*   Service and leadership opportunities.
+*   A community of Saints.
+
+:::
+::: {.p .card-text}
+[General Handbook 1.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng#title_number8)
+:::
+:::::
+:::::::
+
+Ever
+
+
+# Proper Prioritization
+
+Not every one of these bullets are of the same priority. 
+
+In cooking or baking, deviations from the recipe happen and often with better results. Most materials cite "situation and circumstances" when giving council. This is where personal revelation comes into play.
+
+Parable of the sewer.
+
+What if the ingredient was missing or deviated therefrom?
+
+### Purpose Tiers
+
+```{r}
+#| echo: false
+
+my_data <- tibble::tibble(
+  tier = c(1, 1, 2, 2, 3, 3, 3), 
+  purpose = c(
+    "Priesthood authority & keys", 
+    "Covenants and ordinances", 
+    "Prophetic direction", 
+    "Scriptures", 
+    "Gospel learning and teaching support", 
+    "Service and leadership opportunities", 
+    "A community of Saints"
+  )
+)
+
+gt::gt(my_data)
+
+```
+
+We see why tier 1 is what it is over and over in the scriptures:
+
+::::::: {.card .bg-light .mb-3}
+::::: {.card-body}
+::: {.h4 .card-title}
+
+And now it came to pass that after Alma had made an end of speaking unto the people of the church, which was established in the city of Zarahemla, he ordained priests and elders, by laying on his hands according to the order of God, to preside and watch over the church.
+
+And it came to pass that whosoever did not belong to the church who repented of their sins were baptized unto repentance, and were received into the church.
+
+Nevertheless the children of God were commanded that they should gather themselves together oft, and join in fasting and mighty prayer in behalf of the welfare of the souls of those who knew not God.
+
+:::
+::: {.p .card-text}
+[General Handbook 1.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng#title_number8)
+:::
+:::::
+:::::::
+
+Christ started his ministry with two things: 1) ordinances and 2) authority. He left the Holy Land & New World with the same.
+
+Tier 2 is more nuanced:
+
+*   Fullness of revelation now and future
+
+Tier 3 was on display during the pandemic:
+
+*   We missed all of tier 3 and some of tier 2
+*   Did things fall apart?
+    -   No, because individuals and families crank the flywheel of salvation
+    -   Ideal recipe? No
+
+
+# Additional thoughts
+
+*   We get into trouble when we put tier 2/3 stuff on the level of tier 1 or vice versa
+*   Christ really restored the gospel
+    -   Could have reorganized any church, chose to setup a new one
+*   WARNING TO ALL CHURCHES
+    -   Joseph Smith History-1:19
+    -   "they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, havinga form of godliness, but they deny the power therof"
+*   Church as an organization vs an event
